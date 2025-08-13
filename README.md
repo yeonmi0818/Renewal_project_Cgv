@@ -7,7 +7,7 @@
 ## 빠른 링크
 + 📑 기획서(피그마 슬라이드) : [Figma Slides](https://www.figma.com/slides/xhYQIPhYWHqIumk73Xyssf/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-ppt?node-id=497-950&t=ydlMAr5EYNppukV7-1)
 + 🎨 디자인 원본(피그마) : [Figma 디자인](https://www.figma.com/design/cNWqo63kkdZgcqTbzLOIxy/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8?node-id=151-92&t=aanZ6ST0G3ZiyQq4-1)
-+ 🔗GitHub : [CGV Renewal](https://github.com/yeonmi0818/Renewal_project_Cgv/tree/main_php)
++ 🔗GitHub : [CGV Renewal](https://github.com/yeonmi0818/Renewal_project_Cgv/tree/new_main_php?tab=readme-ov-file)
 + 🌐 배포 URL: 
 
 ---
